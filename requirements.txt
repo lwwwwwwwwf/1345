@@ -1,1 +1,6 @@
 scikit-learn
+streamlit
+numpy==1.24.4
+pandas
+joblib
+lightgbm
